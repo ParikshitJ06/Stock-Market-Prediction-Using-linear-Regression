@@ -1,5 +1,5 @@
 Stock Market Prediction Using Linear Regression
-Project Overview
+Project Report
 The Stock Market Prediction Using Linear Regression project is aimed at predicting stock market trends using the Linear Regression algorithm. The project utilizes various libraries such as NumPy, Pandas, Matplotlib, and Scikit-Learn to perform data analysis, visualization, and machine learning tasks. The goal is to create a predictive model that can forecast stock prices based on historical data.
 
 Table of Contents
